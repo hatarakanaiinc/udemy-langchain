@@ -1,0 +1,2 @@
+# udemy-langchain
+GPTなどの大規模言語モデルを使ったアプリケーション開発で注目されている「LangChain」に入門して、LangChainとGPTを使ったWebアプリケーションやSlackボットの実装とデプロイまで挑戦しよう！
